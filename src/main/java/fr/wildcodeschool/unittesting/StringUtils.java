@@ -25,10 +25,10 @@ public class StringUtils {
 
     public static String uniqueVowels(String candidate) {
         String uniqueVowels = "";
-        char[] letters = candidate.toCharArray();
+        char[] letters = vowels(candidate).toCharArray();
         ArrayList<Character> uniqueLetters = new ArrayList();
         boolean present = false;
-        for (int i = 0; i < candidate.length(); i++) {
+        for (int i = 0; i < letters.length; i++) {
             present = false;
             for (int z = 0; z < uniqueLetters.size(); z++) {
                 Character letter = letters[i];

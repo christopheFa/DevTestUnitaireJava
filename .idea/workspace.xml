@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87dbb7b2-5969-4cda-ad4b-c9b27e6739bd" name="Default Changelist" comment="" />
+    <list default="true" id="87dbb7b2-5969-4cda-ad4b-c9b27e6739bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/unittesting/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/unittesting/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fr/wildcodeschool/unittesting/StringUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fr/wildcodeschool/unittesting/StringUtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/fr/wildcodeschool/unittesting/StringUtilsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/fr/wildcodeschool/unittesting/StringUtilsTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,9 +143,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.StringUtilsTest" />
+        <item itemvalue="JUnit.StringUtilsTest.testUniqueVowels" />
         <item itemvalue="JUnit.StringUtilsTest.testParameterNull" />
         <item itemvalue="JUnit.StringUtilsTest.testVowels" />
-        <item itemvalue="JUnit.StringUtilsTest.testUniqueVowels" />
         <item itemvalue="JUnit.StringUtilsTest.testAssertTrue" />
       </list>
     </recent_temporary>
@@ -154,7 +159,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618425757984</updated>
       <workItem from="1618425762255" duration="537000" />
-      <workItem from="1618818255144" duration="11055000" />
+      <workItem from="1618818255144" duration="11601000" />
     </task>
     <servers />
   </component>

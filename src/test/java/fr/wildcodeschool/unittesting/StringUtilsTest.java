@@ -29,9 +29,10 @@ public class StringUtilsTest {
     @Test
     public void testUniqueVowels() {
         Assert.assertTrue("failure - should be true", true);
-        Assert.assertEquals(StringUtils.uniqueVowels("aeeeEEEiooOuUy"),"aeiouy");
-        Assert.assertEquals(StringUtils.uniqueVowels("AeIaEiAEIaei"),"AeI");
+        Assert.assertEquals(StringUtils.uniqueVowels("aeeettEEEiooOuUy"),"aeiouy");
+        Assert.assertEquals(StringUtils.uniqueVowels("ppppAeIaEiAEIaei"),"AeI");
         Assert.assertEquals(StringUtils.uniqueVowels("aAEeeeyEEEiIIooOuUYYYy"),"aEyiou");
+        Assert.assertEquals(StringUtils.uniqueVowels("Ppprtsm"),"");
     }
 
 
