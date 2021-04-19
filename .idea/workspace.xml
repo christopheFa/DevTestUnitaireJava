@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87dbb7b2-5969-4cda-ad4b-c9b27e6739bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apps/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="C:\work\apps\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rAjO7N9EkgL3vwRcMtxnFrKc7t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="JUnit.StringUtilsTest">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.wildcodeschool.unittesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.wildcodeschool.unittesting" />
+      <option name="MAIN_CLASS_NAME" value="fr.wildcodeschool.unittesting.StringUtilsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringUtilsTest.testAssertTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.wildcodeschool.unittesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.wildcodeschool.unittesting" />
+      <option name="MAIN_CLASS_NAME" value="fr.wildcodeschool.unittesting.StringUtilsTest" />
+      <option name="METHOD_NAME" value="testAssertTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringUtilsTest.testParameterNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.wildcodeschool.unittesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.wildcodeschool.unittesting" />
+      <option name="MAIN_CLASS_NAME" value="fr.wildcodeschool.unittesting.StringUtilsTest" />
+      <option name="METHOD_NAME" value="testParameterNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringUtilsTest.testUniqueVowels" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.wildcodeschool.unittesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.wildcodeschool.unittesting" />
+      <option name="MAIN_CLASS_NAME" value="fr.wildcodeschool.unittesting.StringUtilsTest" />
+      <option name="METHOD_NAME" value="testUniqueVowels" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringUtilsTest.testVowels" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.wildcodeschool.unittesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.wildcodeschool.unittesting" />
+      <option name="MAIN_CLASS_NAME" value="fr.wildcodeschool.unittesting.StringUtilsTest" />
+      <option name="METHOD_NAME" value="testVowels" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StringUtilsTest" />
+        <item itemvalue="JUnit.StringUtilsTest.testParameterNull" />
+        <item itemvalue="JUnit.StringUtilsTest.testVowels" />
+        <item itemvalue="JUnit.StringUtilsTest.testUniqueVowels" />
+        <item itemvalue="JUnit.StringUtilsTest.testAssertTrue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87dbb7b2-5969-4cda-ad4b-c9b27e6739bd" name="Default Changelist" comment="" />
+      <created>1618425757984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618425757984</updated>
+      <workItem from="1618425762255" duration="537000" />
+      <workItem from="1618818255144" duration="11055000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>
